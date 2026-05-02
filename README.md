@@ -102,7 +102,7 @@ The full system is deployed to the cloud using a free-tier stack with no payment
 1. Clone the repository:
 ```bash
 
-
+git clone https://github.com/Rockyhermit/InsightEdge-AI-Powered-E-Commerce-Intelligence-Platform
 cd InsightEdge-AI-Powered-E-Commerce-Intelligence-Platform
 ```
 
