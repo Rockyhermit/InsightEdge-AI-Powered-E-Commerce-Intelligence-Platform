@@ -25,6 +25,16 @@ st.set_page_config(
     layout="wide",
 )
 
+# ─── Hide Streamlit branding ─────────────────────────────────────────────────
+st.markdown("""
+    <style>
+        [data-testid="stDecoration"] { display: none; }
+        footer { visibility: hidden; }
+        #MainMenu { visibility: hidden; }
+        .stDeployButton { display: none; }
+    </style>
+""", unsafe_allow_html=True)
+
 st.title("🛒 E-Commerce Analytics Dashboard")
 st.caption("Brazilian E-Commerce Dataset · PostgreSQL + LLaMA 3 via Groq")
 
