@@ -4,7 +4,7 @@
 
 A comprehensive e-commerce analytics platform built with **PostgreSQL**, **Python**, and **LLM-powered intelligence**, based on the **Brazilian E-Commerce Public Dataset**. The system enables scalable storage, efficient querying, and insightful reporting of customer, order, payment, and seller data — now fully deployed to the cloud with an interactive real-time dashboard.
 
-🔗 **Live App**: [https://dashboardpy-kd6kgsdnkpzg5s7wjd3uaf.streamlit.app/](https://dashboardpy-kd6kgsdnkpzg5s7wjd3uaf.streamlit.app/)
+🔗 **Live App**: [https://insightedge-dashboard.streamlit.app/](https://insightedge-dashboard.streamlit.app/)
 
 ---
 
